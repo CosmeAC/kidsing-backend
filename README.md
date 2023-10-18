@@ -8,7 +8,6 @@ npm i
 or
 npm i auth0 axios bcrypt body-parser cors dotenv express mysql
 
-
 # Carpetas
 -CONFIG
 En la carpeta config está la información de la base de datos local (mirar los campos por si necesitan modificación).
